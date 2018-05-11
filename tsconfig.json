@@ -1,0 +1,34 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "declaration": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitThis": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "allowJs": false,
+        "target": "es6",
+        "lib": [
+            "es6"
+        ],
+        "noLib": false,
+        "skipLibCheck": true,
+        "baseUrl": ".",
+        "paths": {
+            "src/*": [
+                "./src/*"
+            ]
+            // ,"*": [
+            //     "node_modules/*"
+            // ]
+        },
+        "jsx": "preserve"
+    },
+    "exclude": [
+        "dist"
+    ]
+}

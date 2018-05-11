@@ -1,0 +1,22 @@
+{
+    "explorer.autoReveal": true,
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "tsimporter.doubleQuotes": true,
+    "tsimporter.spaceBetweenBraces": true,
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "typescriptHero.imports.stringQuoteStyle": "\"",
+    "cSpell.words": [
+        "APPE",
+        "CDUP",
+        "MDTM",
+        "NLST",
+        "PBSZ",
+        "PROT",
+        "Pasv",
+        "RETR",
+        "STOR",
+        "USERCHECK",
+        "ftpchannel"
+    ]
+}
